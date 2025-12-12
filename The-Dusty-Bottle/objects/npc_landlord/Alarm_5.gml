@@ -1,0 +1,1 @@
+obj_controller.player_balance += 5
