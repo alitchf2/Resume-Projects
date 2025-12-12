@@ -19,21 +19,21 @@ Keep morality in the middle to reduce fines or robberies. Best ways to do this i
 
 ### Cheat Codes:
 
-ALT + S: Skips the introduction sequence of the game
-ALT + 1: Spawns Outlaw (1)
-ALT + 2: Spawns Outlaw (2)
-ALT + 3: Spawns Sheriff
-ALT + 4: Spawns Miner (1)
-ALT + 5: Spawns Townsfolk (1)
-ALT + D: Add $50 player_balance
-ALT + F: Loose $50 player_balance
-ALT + G: Add 10 quality
-ALT + H: Loose 10 quality
-ALT + J: Add 10 rowdiness
-ALT + K: Loose 10 rowdiness
-ALT + Z: Add 10 Morality
-ALT + X: Loose 10 Morality
-ALT + 6: Skip Week
+* ALT + S: Skips the introduction sequence of the game
+* ALT + 1: Spawns Outlaw (1)
+* ALT + 2: Spawns Outlaw (2)
+* ALT + 3: Spawns Sheriff
+* ALT + 4: Spawns Miner (1)
+* ALT + 5: Spawns Townsfolk (1)
+* ALT + D: Add $50 player_balance
+* ALT + F: Loose $50 player_balance
+* ALT + G: Add 10 quality
+* ALT + H: Loose 10 quality
+* ALT + J: Add 10 rowdiness
+* ALT + K: Loose 10 rowdiness
+* ALT + Z: Add 10 Morality
+* ALT + X: Loose 10 Morality
+* ALT + 6: Skip Week
 
 
 
